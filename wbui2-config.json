@@ -1,0 +1,74 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 1,
+      "hideicon": true,
+      "hideiconafter": 10,
+      "iconurl": "https://github.com/cityhopper2020/adswbui2/blob/fe3d002572c4122d216d021820ea55b261ee3e5e/logo%20large.png",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 24
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
+        "imageurl": "https://github.com/cityhopper2020/adswbui2/blob/fe3d002572c4122d216d021820ea55b261ee3e5e/logo%20large.png",
+        "content": [
+          {
+            "title": "<TextStyle.LightBlue> Welcome to Angel Devil Servers</>",
+            "text": "<TextStyle.White>- DISCORD SIGN UP MANDATORY VIA discord.gg/4fX73NbYPs - for Rules, Help, BBS-Shop, Other games we host, Community and much more!</>  \n<TextStyle.White> - NO Building @ Player Spawn Points, on Explorer Notes, Obelisks, around Artifact Caves and on Herbi/Carnivore Island!</>\n<TextStyle.White> - /ads & /kit Global Chat Slash Commands may only be claimed once a week per server = using /ads, upto 9x free tames weekly if u transfer!</>\n<TextStyle.White> - /fever, /shrooms and /denethor commands for the inquisitive...</>\n<TextStyle.White> - /TP2CC Command teleports your to map Community Center teleporter area with 6 hour cooldown!</>\n<TextStyle.White> - Dino & Packs Market via Discord!</>\n<TextStyle.White> - Cross-Cluster Chat!  Special Scripts make this Community TRULY CUSTOM! 100x Shinies ON EVERY MAP!</>\n<TextStyle.White> - ALSO UNIQUE Starter Kit @ teleporter points across cluster (one free different tame on each map)!</>\n<TextStyle.White> - Register your PvE tribe on discord or YOU COULD GET TRIBE WIPED!!</>\n<TextStyle.White> - Structures Decay ENABLED - Log in once every few days to ensure no losses!</>\n<TextStyle.White> - Dino Decay after 7 days! Cryo up your tames when they are not in use!</>\n<TextStyle.White> - Playing on the servers means you have accepted the consequences of breaking our rules outlined in discord.</>\n\n<TextStyle.Red> == ADS Cluster Version V5.12 ==</>\n"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Green>Online Players</>",
+        "imageurl": "https://github.com/cityhopper2020/adswbui2/blob/fe3d002572c4122d216d021820ea55b261ee3e5e/logo%20large.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0,1,0,1\">Connected Players</>",
+            "text": "{playerlist}"
+          }
+        ]
+      },
+      {
+        "layout": 4,
+        "buttontext": "4 Box layout",
+        "imageurl": "https://github.com/cityhopper2020/adswbui2/blob/fe3d002572c4122d216d021820ea55b261ee3e5e/logo%20large.png",
+        "content": [
+          {
+            "title": "Top left title",
+            "text": "<TextStyle.Orange>This text goes into the top left box</>"
+          },
+          {
+            "title": "<TextStyle.Green>Top right title</>",
+            "text": "<TextStyle.Violet>This text goes into the top right box</>"
+          },
+          {
+            "title": "<TextStyle.Blue>Bottom left title</>",
+            "text": "<TextStyle.Red>This text goes into the bottom left box</>"
+          },
+          {
+            "title": "<TextStyle.Yellow>Bottom right title</>",
+            "text": "<TextStyle.White>This text goes into the bottom right box</>"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Link to discord",
+        "url": "https://discord.gg/3CFxyZbnJ4"
+      },
+      {
+        "text": "Link to ADS Info Doc",
+        "url": "https://docs.google.com/spreadsheets/d/1JvZZWkU3oDnfLB4KKY-3xiyMhdZQ8XDqigJS25n10dI/edit?usp=sharing"
+      }
+    ],
+    "version": 2
+  }
+}
