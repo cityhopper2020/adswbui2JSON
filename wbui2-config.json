@@ -4,7 +4,7 @@
       "openbutton": 1,
       "hideicon": true,
       "hideiconafter": 10,
-      "iconurl": "https://github.com/cityhopper2020/adswbui2/blob/fe3d002572c4122d216d021820ea55b261ee3e5e/logo%20large.png",
+      "iconurl": "https://files.catbox.moe/5zrg1x.png",
       "disableicontext": false,
       "iconposition": 0,
       "icontextcolor": 0,
@@ -16,7 +16,7 @@
       {
         "layout": 1,
         "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
-        "imageurl": "https://github.com/cityhopper2020/adswbui2/blob/fe3d002572c4122d216d021820ea55b261ee3e5e/logo%20large.png",
+        "imageurl": "https://files.catbox.moe/5zrg1x.png",
         "content": [
           {
             "title": "<TextStyle.LightBlue> Welcome to Angel Devil Servers</>",
@@ -27,7 +27,7 @@
       {
         "layout": 1,
         "buttontext": "<TextStyle.Green>Online Players</>",
-        "imageurl": "https://github.com/cityhopper2020/adswbui2/blob/fe3d002572c4122d216d021820ea55b261ee3e5e/logo%20large.png",
+        "imageurl": "https://files.catbox.moe/5zrg1x.png",
         "content": [
           {
             "title": "<RichColor Color=\"0,1,0,1\">Connected Players</>",
@@ -38,7 +38,7 @@
       {
         "layout": 4,
         "buttontext": "4 Box layout",
-        "imageurl": "https://github.com/cityhopper2020/adswbui2/blob/fe3d002572c4122d216d021820ea55b261ee3e5e/logo%20large.png",
+        "imageurl": "https://files.catbox.moe/5zrg1x.png",
         "content": [
           {
             "title": "Top left title",
