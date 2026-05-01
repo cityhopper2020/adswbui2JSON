@@ -57,6 +57,29 @@
             "text": "{playerlist}"
           }
         ]
+      },
+      {
+        "layout": 4,
+        "buttontext": "Server Update Log",
+        "imageurl": "https://i.ibb.co/C3FhV3T7/ads-200x200.png",
+        "content": [
+          {
+            "title": "<TextStyle.Green>ADS Version 5.14 [2nd May 2026]</>",
+            "text": "<TextStyle.LightBlue>- Added WBUI2 Mod across cluster (initial testing completed on Scorched Earth so not added there as its there already)</>\n<TextStyle.LightBlue>- Added Test background icons and images to WBUI (expecting at least one of them to fail or need replacement over coming days)</>\n<TextStyle.LightBlue>- Updated ADS Custom /kit slash-command script to include Nanoh's Reuseable Items instead of old reuseable mod items</>\n<TextStyle.Yellow>- Added Temporary Boosted Taming Weekend Settings (Current Taming is Taming Speed 2x X 5x Wild dino Hunger = 10x overall taming speed --> Temporarily boosted just for this weekend to TS 5x X 4x Wild Dino Hunger = 20x overall taming speed) - GET UR TAME ON!</>"
+          },
+          {
+            "title": "<TextStyle.Red>ADS Version 5.15 [??-May-2026]</>",
+            "text": "<TextStyle.Red>Future Update Details will go here!</>"
+          },
+          {
+            "title": "<TextStyle.Red>ADS Version 5.16 [??-May-2026]</>",
+            "text": "<TextStyle.Red>Future Update Details will go here!</>"
+          },
+          {
+            "title": "<TextStyle.Red>ADS Version 5.17 [??-May-2026]</>",
+            "text": "<TextStyle.Red>Future Update Details will go here!</>"
+          }
+        ]
       }
     ],
     "links": [
