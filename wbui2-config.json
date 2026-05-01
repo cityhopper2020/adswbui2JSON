@@ -15,12 +15,35 @@
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
+        "buttontext": "<TextStyle.LightBlue>Welcome</>",
         "imageurl": "https://files.catbox.moe/5zrg1x.png",
         "content": [
           {
             "title": "<TextStyle.LightBlue>Welcome to Angel Devil Servers</>",
             "text": "<TextStyle.White>- DISCORD SIGN UP MANDATORY VIA discord.gg/4fX73NbYPs - for Rules, Help, BBS-Shop, Other games we host, Community and much more!</>  \n<TextStyle.White> - NO Building @ Player Spawn Points, on Explorer Notes, Obelisks, around Artifact Caves and on Herbi/Carnivore Island!</>\n<TextStyle.White> - /ads & /kit Global Chat Slash Commands may only be claimed once a week per server = using /ads, upto 9x free tames weekly if u transfer!</>\n<TextStyle.White> - /fever, /shrooms and /denethor commands for the inquisitive...</>\n<TextStyle.White> - /TP2CC Command teleports your to map Community Center teleporter area with 6 hour cooldown!</>\n<TextStyle.White> - Dino & Packs Market via Discord!</>\n<TextStyle.White> - Cross-Cluster Chat!  Special Scripts make this Community TRULY CUSTOM! 100x Shinies ON EVERY MAP!</>\n<TextStyle.White> - ALSO UNIQUE Starter Kit @ teleporter points across cluster (one free different tame on each map)!</>\n<TextStyle.White> - Register your PvE tribe on discord or YOU COULD GET TRIBE WIPED!!</>\n<TextStyle.White> - Structures Decay ENABLED - Log in once every few days to ensure no losses!</>\n<TextStyle.White> - Dino Decay after 7 days! Cryo up your tames when they are not in use!</>\n<TextStyle.White> - Playing on the servers means you have accepted the consequences of breaking our rules outlined in discord.</>\n\n<TextStyle.Red> == ADS Cluster Version V5.12 ==</>\n"
+          }
+        ]
+      },
+      {
+        "layout": 4,
+        "buttontext": "<TextStyle.Red>ADS Cluster Info</>",
+        "imageurl": "https://files.catbox.moe/5zrg1x.png",
+        "content": [
+          {
+            "title": "<TextStyle.Yellow>ADS Basic Summary</>",
+            "text": "<TextStyle.LightBlue>ADS currently hosts ALL 9 official & DLC maps via nitrado & powered by Beacon Sentinel & Helena Bot!</>\n\n<TextStyle.Orange>- General Harvest Rates: 5x</>\n<TextStyle.Orange>- Combined Taming Speed: 10x [Taming Speed 2x X 5x Wild Dino Hunger]</>\n<TextStyle.Orange>- Custom Slash Commands & Unique scripts running in the background!</>\n<TextStyle.Orange>- Admin Market & Events ran thru Community Discord!</>\n<TextStyle.Orange>- Most Saddles & kit cheapened in crafting cost!</>\n<TextStyle.Orange>- Buffed Ascension Bosses but no cap on Dino Levels!</>\n<TextStyle.Orange>- Unique Event Mod active on each map separately!</>\n<TextStyle.Orange>- Unique Perks & D20 games for Server Donators!</>\n<TextStyle.Orange>- Starter Kits can be found at the ADS Public Teleporters at Obelisks!  Unique & exclusive admin market stalls can be found at Admin Community Centers on each map!</>\n<TextStyle.Orange>- Cross-Cluster Chat & to Discord General Chat channel & back! (Helps with XBOX/Microsoft Gamestore users who have inherent issues with ingame chat censorship)</>\n\n<TextStyle.LightBlue>Last updated May 2026</>"
+          },
+          {
+            "title": "<TextStyle.Green>ADS Custom Slash Commands!</>",
+            "text": "<TextStyle.LightBlue>Through the Amazing Power of Beacon Sentinel comes Angel Devil Servers' Custom Slash Commands!  Send any of the following (without the \" \") into global chat to receive your Angel Blessing or Devil Curse!</>\n\n<TextStyle.Violet>\"/kit\" - Grants you a basic kit once per week across cluster!</>\n<TextStyle.Violet>\"/ads\" - Blesses or Curses you with a random tame at a random level (could be great, could be meh!) in a vanilla cryopod in your pocket!  Can be claimed once PER MAP, PER WEEK! - meaning 9x free tames weekly if you transfer!</>\n<TextStyle.Violet>\"/tp2cc\" - Grants you an Angel's Blessing and teleports you to the local CC on any map! - Requires 3 hours to cooldown</>\n<TextStyle.Violet>\"/fever\" - The Devil Curses you with Swamp Fever! (Useful for those wishing to unlock the Ark steam/Console achievement for curing the fever and have an antidote ready)</>\n<TextStyle.Violet>\"/denethor\" - A Lord of the Rings Reference... Find out for yourself!</>\n\n<TextStyle.LightBlue>Last updated May 2026</>"
+          },
+          {
+            "title": "<TextStyle.LightBlue>Custom! Custom! Custom!</>",
+            "text": "<TextStyle.Red>Make Angel Devil Servers YOUR Community Home!</>\n\nStrive to Overcome the Devil's Gauntlet (Buffed Ascension Bosses) bringing in a mutated horde of Boss fighters!  Although ADS Cluster is quite boosted, players will die REGULARLY as, it being Player vs Environment, we have made said environment highly deadly to survivors via custom settings, buffs and nerfs!\n\nBut don't fret, survivor...\n\nThere are many custom settings & modded creatures specially chosen to aid you on your adventures and ascension beyond...  \n\nDare you meet the challenge?"
+          },
+          {
+            "title": "<TextStyle.Orange>SETTINGS IN-DEPTH</>",
+            "text": "<TextStyle.White>IN-DEPTH Settings may be found in the following link:</>\n\n\n<TextStyle.Orange>\"https://docs.google.com/spreadsheets/d/1JvZZWkU3oDnfLB4KKY-3xiyMhdZQ8XDqigJS25n10dI/edit?gid=1292045507#gid=1292045507\"</> \n\nor by clicking the links icon to the bottom left!"
           }
         ]
       },
@@ -32,29 +55,6 @@
           {
             "title": "<RichColor Color=\"0,1,0,1\">Connected Players</>",
             "text": "{playerlist}"
-          }
-        ]
-      },
-      {
-        "layout": 4,
-        "buttontext": "4 Box layout",
-        "imageurl": "https://files.catbox.moe/5zrg1x.png",
-        "content": [
-          {
-            "title": "Top left title",
-            "text": "<TextStyle.Orange>This text goes into the top left box</>"
-          },
-          {
-            "title": "<TextStyle.Green>Top right title</>",
-            "text": "<TextStyle.Violet>This text goes into the top right box</>"
-          },
-          {
-            "title": "<TextStyle.Blue>Bottom left title</>",
-            "text": "<TextStyle.Red>This text goes into the bottom left box</>"
-          },
-          {
-            "title": "<TextStyle.Yellow>Bottom right title</>",
-            "text": "<TextStyle.White>This text goes into the bottom right box</>"
           }
         ]
       }
