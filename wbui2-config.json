@@ -4,7 +4,7 @@
       "openbutton": 1,
       "hideicon": true,
       "hideiconafter": 10,
-      "iconurl": "https://files.catbox.moe/5zrg1x.png",
+      "iconurl": "https://i.ibb.co/C3FhV3T7/ads-200x200.png",
       "disableicontext": false,
       "iconposition": 0,
       "icontextcolor": 0,
@@ -27,7 +27,7 @@
       {
         "layout": 4,
         "buttontext": "<TextStyle.Red>ADS Cluster Info</>",
-        "imageurl": "https://files.catbox.moe/5zrg1x.png",
+        "imageurl": "https://i.ibb.co/wr6KKM9t/ads-200x200-grayscale.png",
         "content": [
           {
             "title": "<TextStyle.Yellow>ADS Basic Summary</>",
@@ -50,7 +50,7 @@
       {
         "layout": 1,
         "buttontext": "<TextStyle.Green>Online Players</>",
-        "imageurl": "https://files.catbox.moe/5zrg1x.png",
+        "imageurl": "https://i.ibb.co/C3FhV3T7/ads-200x200.png",
         "content": [
           {
             "title": "<RichColor Color=\"0,1,0,1\">Connected Players</>",
