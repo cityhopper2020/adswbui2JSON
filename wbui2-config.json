@@ -15,8 +15,8 @@
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "<TextStyle.LightBlue>Welcome</>",
-        "imageurl": "https://files.catbox.moe/5zrg1x.png",
+        "buttontext": "<TextStyle.Yellow>Welcome</>",
+        "imageurl": "https://i.ibb.co/gLj8jz28/ads-200x200-tiny.png",
         "content": [
           {
             "title": "<TextStyle.LightBlue>Welcome to Angel Devil Servers</>",
@@ -27,7 +27,7 @@
       {
         "layout": 4,
         "buttontext": "<TextStyle.Red>ADS Cluster Info</>",
-        "imageurl": "https://i.ibb.co/wr6KKM9t/ads-200x200-grayscale.png",
+        "imageurl": "",
         "content": [
           {
             "title": "<TextStyle.Yellow>ADS Basic Summary</>",
