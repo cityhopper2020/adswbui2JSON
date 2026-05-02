@@ -25,6 +25,17 @@
         ]
       },
       {
+        "layout": 1,
+        "buttontext": "<TextStyle.Violet>ADS RULES</>",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "<TextStyle.Violet>BASIC RULES</>",
+            "text": "<TextStyle.Yellow>[FULL Rules via Discord Rules Channel]</> \n- No offensive, racist, discriminatory or otherwise inflammatory tribe, character, or creature names, or chats.\n- No griefing or stealing of any kind - including, but not limited to: insiding, egg/breeding line theft, drowining players, wild dino kiting, structure blocking, taming/OSD/fight interference, etc.\n- Always ensure to log off in a safe, enclosed area & that any valuable items or creatures are adequately stored as well.\n- Admin requests for help must be reasonable (such as losing access to tribe, character corruption, etc) & done via discord ticket. Do not DM admins & read FAQs before creating ticket when possible. \n- Base rules: 1x Base per map, min. 90x foundations apart from other bases & max diameter of 45x foundations. Alternatively, 2x2 ocean plats, or 3x cliff/tree platforms in close proximity & in actual use.\n- Keep rare resources publicly accessible/unlocked (explorer notes, black pearls, sap/oil/water/gas veins, etc).\n- Clean logout FOBs, traps, OSD setups, etc. after use.\n- No builds at or close to artifact caves, boss terminals, or unique dino/egg/resource spawn zones.\n- Please build aesthetic bases! Box Bases are ugly!\n- Max of 30x tames allowed out at any given time on each map per tribe & No AFK Breeding."
+          }
+        ]
+      },
+      {
         "layout": 4,
         "buttontext": "<TextStyle.Red>ADS Cluster Info</>",
         "imageurl": "",
@@ -42,8 +53,8 @@
             "text": "<TextStyle.Red>Make Angel Devil Servers YOUR Community Home!</>\n\nStrive to Overcome the Devil's Gauntlet (Buffed Ascension Bosses) bringing in a mutated horde of Boss fighters!  Although ADS Cluster is quite boosted, players will die REGULARLY as, it being Player vs Environment, we have made said environment highly deadly to survivors via custom settings, buffs and nerfs!\n\nBut don't fret, survivor...\n\nThere are many custom settings & modded creatures specially chosen to aid you on your adventures and ascension beyond...  \n\nDare you meet the challenge?"
           },
           {
-            "title": "<TextStyle.Orange>SETTINGS IN-DEPTH</>",
-            "text": "<TextStyle.White>IN-DEPTH Settings may be found in the following link:</>\n\n\n<TextStyle.Orange>\"https://docs.google.com/spreadsheets/d/1JvZZWkU3oDnfLB4KKY-3xiyMhdZQ8XDqigJS25n10dI/edit?gid=1292045507#gid=1292045507\"</> \n\nor by clicking the links icon to the bottom left!"
+            "title": "<TextStyle.Orange>SETTINGS IN DEPTH</>",
+            "text": "<TextStyle.White>IN-DEPTH Settings may be found in the following link:</>\n<TextStyle.Orange>https://docs.google.com/spreadsheets/d/1JvZZWkU3oDnfLB4KKY-3xiyMhdZQ8XDqigJS25n10dI/edit?gid=1292045507#gid=1292045507</> \nor by clicking the links icon to the bottom left!\n"
           }
         ]
       },
