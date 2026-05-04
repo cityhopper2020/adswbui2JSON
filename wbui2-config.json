@@ -10,7 +10,7 @@
       "icontextcolor": 0,
       "openonstart": true,
       "openonstartonlynewplayers": false,
-      "updateinterval": 24
+      "updateinterval": 3
     },
     "tabs": [
       {
@@ -71,7 +71,7 @@
       },
       {
         "layout": 4,
-        "buttontext": "Server Update Log",
+        "buttontext": "<TextStyle.Blue>Server Update Log</>",
         "imageurl": "https://i.ibb.co/C3FhV3T7/ads-200x200.png",
         "content": [
           {
@@ -79,8 +79,8 @@
             "text": "<TextStyle.LightBlue>- Added WBUI2 Mod across cluster (initial testing completed on Scorched Earth so not added there as its there already)</>\n<TextStyle.LightBlue>- Added Test background icons and images to WBUI (expecting at least one of them to fail or need replacement over coming days)</>\n<TextStyle.LightBlue>- Updated ADS Custom /kit slash-command script to include Nanoh's Reuseable Items instead of old reuseable mod items</>\n<TextStyle.Yellow>- Added Temporary Boosted Taming Weekend Settings (Current Taming is Taming Speed 2x X 5x Wild dino Hunger = 10x overall taming speed --> Temporarily boosted just for this weekend to TS 5x X 4x Wild Dino Hunger = 20x overall taming speed) - GET UR TAME ON!</>"
           },
           {
-            "title": "<TextStyle.Red>ADS Version 5.15 [??-May-2026]</>",
-            "text": "<TextStyle.Red>Future Update Details will go here!</>"
+            "title": "<TextStyle.Green>ADS Version 5.15 [4th May 2026]</>",
+            "text": "<TextStyle.Red>- Removed Weekend Fast taming event settings</>\n<TextStyle.Yellow>- Added Test background images to WBUI extra tab as test (might remove or adapt in coming week)</>\n<TextStyle.LightBlue>- Fixed a few Sentinel script issues regarding /ads command and kit commands</>\n<TextStyle.LightBlue>- Increased Mating Speeds from 2.5x to 5.0x as new standard for cluster (details in server info will be updated to reflect this when we get free)</>\n<TextStyle.LightBlue>- Increased general taming and breeding speeds mildly on Scorched Earth & Aberration to encourage more activity there</>\n- Cheat Setday 1 enacted across cluster to encourage more joiners\n- Basic Advertising materials set up to mark our first advertising run in over a year!  Hopefully means our slots get more filled with regular member base!\n\nCluster will enact these settings in tonight's cluster update (ETA 11pm UK Time)"
           },
           {
             "title": "<TextStyle.Red>ADS Version 5.16 [??-May-2026]</>",
@@ -89,6 +89,17 @@
           {
             "title": "<TextStyle.Red>ADS Version 5.17 [??-May-2026]</>",
             "text": "<TextStyle.Red>Future Update Details will go here!</>"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Black>Temporary Test Tab</>",
+        "imageurl": "https://i.ibb.co/SFQZ1c8/Basic-Digital-1.png",
+        "content": [
+          {
+            "title": "",
+            "text": ""
           }
         ]
       }
