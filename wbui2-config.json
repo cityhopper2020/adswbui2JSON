@@ -15,12 +15,34 @@
     "tabs": [
       {
         "layout": 1,
+        "buttontext": "<TextStyle.White>Start Today!</>",
+        "imageurl": "https://i.ibb.co/bMcc0mbg/basic-digital-5-json1.png",
+        "content": [
+          {
+            "title": "",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "layout": 1,
         "buttontext": "<TextStyle.Yellow>Welcome</>",
         "imageurl": "",
         "content": [
           {
             "title": "<TextStyle.Yellow>Welcome to Angel Devil Servers</>",
             "text": "<TextStyle.White>- DISCORD SIGN UP MANDATORY VIA discord.gg/4fX73NbYPs - for Rules, Help, BBS-Shop, Other games we host, Community and much more!</>  \n<TextStyle.White> - NO Building @ Player Spawn Points, on Explorer Notes, Obelisks, around Artifact Caves and on Herbi/Carnivore Island!</>\n<TextStyle.White> - /ads & /kit Global Chat Slash Commands may only be claimed once a week per server = using /ads, upto 9x free tames weekly if u transfer!</>\n<TextStyle.White> - /fever, /shrooms and /denethor commands for the inquisitive...</>\n<TextStyle.White> - /TP2CC Command teleports your to map Community Center teleporter area with 6 hour cooldown!</>\n<TextStyle.White> - Dino & Packs Market via Discord!</>\n<TextStyle.White> - Cross-Cluster Chat!  Special Scripts make this Community TRULY CUSTOM! 100x Shinies ON EVERY MAP!</>\n<TextStyle.White> - ALSO UNIQUE Starter Kit @ teleporter points across cluster (one free different tame on each map)!</>\n<TextStyle.White> - Register your PvE tribe on discord or YOU COULD GET TRIBE WIPED!!</>\n<TextStyle.White> - Structures Decay ENABLED - Log in once every few days to ensure no losses!</>\n<TextStyle.White> - Dino Decay after 7 days! Cryo up your tames when they are not in use!</>\n<TextStyle.White> - Playing on the servers means you have accepted the consequences of breaking our rules outlined in discord.</>\n\n<TextStyle.Red> == ADS Cluster Version V5.15 ==</>\n"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Green>Online Players</>",
+        "imageurl": "https://i.ibb.co/C3FhV3T7/ads-200x200.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0,1,0,1\">Connected Players</>",
+            "text": "{playerlist}"
           }
         ]
       },
@@ -59,17 +81,6 @@
         ]
       },
       {
-        "layout": 1,
-        "buttontext": "<TextStyle.Green>Online Players</>",
-        "imageurl": "https://i.ibb.co/C3FhV3T7/ads-200x200.png",
-        "content": [
-          {
-            "title": "<RichColor Color=\"0,1,0,1\">Connected Players</>",
-            "text": "{playerlist}"
-          }
-        ]
-      },
-      {
         "layout": 4,
         "buttontext": "<TextStyle.Blue>Server Update Log</>",
         "imageurl": "https://i.ibb.co/C3FhV3T7/ads-200x200.png",
@@ -88,18 +99,7 @@
           },
           {
             "title": "<TextStyle.Green>ADS Version 5.16 [13-May-2026]</>",
-            "text": "<TextStyle.Green>- Adds Void Wyvern and Matrix Wyvern eggs to enraged shiny drop pools</>\n<TextStyle.Green>- Increases Kairuku count slightly on Center</>\n<TextStyle.Green>- Removes Flying on Fliers on Aberration</>\n<TextStyle.Green>- Added more unique loot to several boss fights</>\n<TextStyle.Green>- Removes general MoTD in favour of the WBUI2 mod’s UI</>\n<TextStyle.Green>- Forces ADS/F2 button icon</>\n<TextStyle.Green>- Updates JSON to include 5.16 details and reduces length of previous updates’ title & adds today’s update notes.</>"
-          }
-        ]
-      },
-      {
-        "layout": 1,
-        "buttontext": "<TextStyle.White>Start Today!</>",
-        "imageurl": "https://i.ibb.co/bG82cbT/Basic-Digital-3-Creature-Qol.png",
-        "content": [
-          {
-            "title": "",
-            "text": ""
+            "text": "<TextStyle.Green>- Adds Void Wyvern and Matrix Wyvern eggs to enraged shiny drop pools</>\n<TextStyle.Green>- Increases Kairuku count slightly on Center</>\n<TextStyle.Green>- Removes Flying on Fliers on Aberration</>\n<TextStyle.Green>- Added more unique loot to several boss fights</>\n<TextStyle.Green>- Removes general MoTD in favour of the WBUI2 mod’s UI</>\n<TextStyle.Green>- Forces ADS/F2 button icon</>\n<TextStyle.Green>- Updates JSON to include 5.16 details and reduces length of previous updates’ title & adds today’s update notes.</>\n<TextStyle.Green>- Updates JSON to include trial image for intro box (in future all boxes may be replaced with digitals)</>\n"
           }
         ]
       }
