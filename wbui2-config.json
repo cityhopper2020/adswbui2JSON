@@ -2,10 +2,10 @@
   "WBUI2": {
     "settings": {
       "openbutton": 1,
-      "hideicon": true,
+      "hideicon": false,
       "hideiconafter": 10,
       "iconurl": "https://i.ibb.co/C3FhV3T7/ads-200x200.png",
-      "disableicontext": false,
+      "disableicontext": true,
       "iconposition": 0,
       "icontextcolor": 0,
       "openonstart": true,
@@ -83,19 +83,19 @@
             "text": "<TextStyle.Red>- Removed Weekend Fast taming event settings</>\n<TextStyle.Yellow>- Added Test background images to WBUI extra tab as test (might remove or adapt in coming week)</>\n<TextStyle.LightBlue>- Fixed a few Sentinel script issues regarding /ads command and kit commands</>\n<TextStyle.LightBlue>- Increased Mating Speeds from 2.5x to 5.0x as new standard for cluster (details in server info will be updated to reflect this when we get free)</>\n<TextStyle.LightBlue>- Increased general taming and breeding speeds mildly on Scorched Earth & Aberration to encourage more activity there</>\n- Cheat Setday 1 enacted across cluster to encourage more joiners\n- Basic Advertising materials set up to mark our first advertising run in over a year!  Hopefully means our slots get more filled with regular member base!\n\nCluster will enact these settings in tonight's cluster update (ETA 11pm UK Time)"
           },
           {
-            "title": "<TextStyle.Yellow>ADS Version 5.15+ (Blessings & Curses Temp Event) [09-May-2026]</>",
+            "title": "<TextStyle.Yellow>ADS Blessings & Curses Temp Event [09-May-2026]</>",
             "text": "Temporary Settings Event Details...\n\n<TextStyle.LightBlue>Blessings:</>\n- d14 = Shiny Fest! (chelle) -- chose filthy chance increase on scorched earth\n- d16 = Boss Rush! (KillerChick & Jaye) -- All Ascension boss fight requirements Reduced for one week (as it’s stacked, I’ll remove gauntlet requirements also just for this week!)\n<TextStyle.Red>Curses:</>\n- d3 = The Enraged! (Killerchick) -- Enraged chance increased on all maps (excluding scorched due to blessing) + Higher Livyatan spawns\n- d4 = Distrust! (KillerChick) -- Taming Speed reduction by 0.5\n- d5 = Broken Limbs! (Wallabe) - -1x to harvest!\n- d6 = Carnivore Aggression! (Mike) -- Most Wild carnivores will do more dmg\n\nCluster Settings return to norm on Friday 15th May!"
           },
           {
-            "title": "<TextStyle.Red>ADS Version 5.17 [??-May-2026]</>",
-            "text": "<TextStyle.Red>Future Update Details will go here!</>"
+            "title": "<TextStyle.Green>ADS Version 5.16 [13-May-2026]</>",
+            "text": "<TextStyle.Green>- Adds Void Wyvern and Matrix Wyvern eggs to enraged shiny drop pools</>\n<TextStyle.Green>- Increases Kairuku count slightly on Center</>\n<TextStyle.Green>- Removes Flying on Fliers on Aberration</>\n<TextStyle.Green>- Added more unique loot to several boss fights</>\n<TextStyle.Green>- Removes general MoTD in favour of the WBUI2 mod’s UI</>\n<TextStyle.Green>- Forces ADS/F2 button icon</>\n<TextStyle.Green>- Updates JSON to include 5.16 details and reduces length of previous updates’ title & adds today’s update notes.</>"
           }
         ]
       },
       {
         "layout": 1,
         "buttontext": "<TextStyle.White>Start Today!</>",
-        "imageurl": "https://i.ibb.co/SFQZ1c8/Basic-Digital-1.png",
+        "imageurl": "https://i.ibb.co/bG82cbT/Basic-Digital-3-Creature-Qol.png",
         "content": [
           {
             "title": "",
