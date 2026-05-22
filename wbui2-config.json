@@ -15,8 +15,8 @@
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "<TextStyle.White>Start Today!</>",
-        "imageurl": "https://i.ibb.co/BVdxr2Pp/Eotriceratops-tequila-ad-transparent.png",
+        "buttontext": "<TextStyle.White>START HERE ---></>",
+        "imageurl": "https://i.ibb.co/n8gBXFZc/what-have-i-done.jpg",
         "content": [
           {
             "title": "",
@@ -90,12 +90,12 @@
             "text": "<RichColor Color=\"0,1,0,1\">General Ini Changelog:</>\n<RichColor Color=\"1,0,0,1\">- Removed May's \"Blessings & Curses\" Event Settings</>\n- Reduced overspawn of Phoenix on ADS2: Scorched Earth\n- Added more Aberrant variety to ADS2: Scorched Earth\n- Increased Passive Repair Speeds on Bloodforged items from 0.1 to 0.25 (effect shud be noticeable)\n\n<RichColor Color=\"1,1,0,1\">Dino Depot & WBUI2 Mod JSON Changelogs:</>\n- Fixed Element Jug Bug Production (oddly it removed the element part of its blueprint when imported into the json tool)\n- Limited Wyvern, Runic and achatina passive production cycles (between 50-1000 limit per depot and depending on item generated)\n- Updated WBUI2 Update log and corrected a typo in first tab imagery"
           },
           {
-            "title": "<TextStyle.Green>ADS Version 5.18 [21st May 2026]</>",
+            "title": "<TextStyle.Red>ADS Version 5.18 [21st May 2026]</>",
             "text": "- Burrowbuck added to ALL maps! *(Extinction currently has a boosted minimum level spawn of these in the snow bubble)*\n- ^Mainly found in **either** grassland or Snow biomes .\n- Burrowbuck Saddle added to Green Saddle drop list across cluster\n- Previous hidden Tamed Araneo Resistance and Damage buffs removed!\n- AutoUnlock set for saddle with custom craft cost entered\n- **Adding** Potted Sir 5R-M8 QoL Mod across cluster\n- Engram autounlocks, Crafting costs unedited from mod defaults.\n- Potted Mod ini added premptively (mod defaults).\n- **Changed Day Cycle** from 6 hour cycles to 2 hour cycles (excluding ADS4: Ab)\n- DECREASED /tp2cc Command from 21600 seconds (6hr) to 2700 seconds (45 minutes)\n- Updated WBUI2 Mod."
           },
           {
-            "title": "ADS Version 5.19 [??th ?? 2026]",
-            "text": ""
+            "title": "<TextStyle.Green>ADS Version 5.19 [22nd May 2026]</>",
+            "text": "Cluster Changelog:\n- Removed Added Burrowbuck manual coded spawns off maps that spawn them by default (added default spawn points to ADS spawn grid)\n- Adjusted min-max level scaling on all default burrowbuck spawns (varying across maps)\n- Removed Ant & Meganeura spawns from all Grassland biome spawn points across cluster (lag reductive benefit)\n- Tweaked some overspawns\n- Loot Quality rebalanced across cluster (some error in code led to drops being much better than intended quality wise)\n- Reduced spawn weight on Runic Wyverns across cluster\n- Reduced Kairuku max spawn % in Lost Colony Tundra Bowl spawn point\n- Boosted minimum-max level araneo spawns on Aberration\n- Replaced Engram and craft data for burrowbuck items with defaults then readjusted defaults to ADS standards (autounlock, custom craft etc)\n- Works on two new sentinel scripts & the TP2cc command being recoded to differ data to map buckets separately.  These scripts are currently inactive but when completed will be turned on in server and are slash-command based.\n- More digitals designed and uploaded in preparation for adorning admin builds coming very soon!"
           },
           {
             "title": "<TextStyle.Red>ADS Version 5.16 [13-May-2026]</>",
