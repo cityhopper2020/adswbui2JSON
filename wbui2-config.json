@@ -16,7 +16,7 @@
       {
         "layout": 1,
         "buttontext": "<TextStyle.White>START HERE ---></>",
-        "imageurl": "https://i.ibb.co/n8gBXFZc/what-have-i-done.jpg",
+        "imageurl": "https://i.ibb.co/939h0VhT/ark-potc.png",
         "content": [
           {
             "title": "",
@@ -94,12 +94,12 @@
             "text": "- Burrowbuck added to ALL maps! *(Extinction currently has a boosted minimum level spawn of these in the snow bubble)*\n- ^Mainly found in **either** grassland or Snow biomes .\n- Burrowbuck Saddle added to Green Saddle drop list across cluster\n- Previous hidden Tamed Araneo Resistance and Damage buffs removed!\n- AutoUnlock set for saddle with custom craft cost entered\n- **Adding** Potted Sir 5R-M8 QoL Mod across cluster\n- Engram autounlocks, Crafting costs unedited from mod defaults.\n- Potted Mod ini added premptively (mod defaults).\n- **Changed Day Cycle** from 6 hour cycles to 2 hour cycles (excluding ADS4: Ab)\n- DECREASED /tp2cc Command from 21600 seconds (6hr) to 2700 seconds (45 minutes)\n- Updated WBUI2 Mod."
           },
           {
-            "title": "<TextStyle.Green>ADS Version 5.19 [22nd May 2026]</>",
+            "title": "<TextStyle.Red>ADS Version 5.19 [22nd May 2026]</>",
             "text": "Cluster Changelog:\n- Removed Added Burrowbuck manual coded spawns off maps that spawn them by default (added default spawn points to ADS spawn grid)\n- Adjusted min-max level scaling on all default burrowbuck spawns (varying across maps)\n- Removed Ant & Meganeura spawns from all Grassland biome spawn points across cluster (lag reductive benefit)\n- Tweaked some overspawns\n- Loot Quality rebalanced across cluster (some error in code led to drops being much better than intended quality wise)\n- Reduced spawn weight on Runic Wyverns across cluster\n- Reduced Kairuku max spawn % in Lost Colony Tundra Bowl spawn point\n- Boosted minimum-max level araneo spawns on Aberration\n- Replaced Engram and craft data for burrowbuck items with defaults then readjusted defaults to ADS standards (autounlock, custom craft etc)\n- Works on two new sentinel scripts & the TP2cc command being recoded to differ data to map buckets separately.  These scripts are currently inactive but when completed will be turned on in server and are slash-command based.\n- More digitals designed and uploaded in preparation for adorning admin builds coming very soon!"
           },
           {
-            "title": "<TextStyle.Red>ADS Version 5.16 [13-May-2026]</>",
-            "text": "<TextStyle.Red>- Adds Void Wyvern and Matrix Wyvern eggs to enraged shiny drop pools</>\n<TextStyle.Red>- Increases Kairuku count slightly on Center</>\n<TextStyle.Red>- Removes Flying on Fliers on Aberration</>\n<TextStyle.Red>- Added more unique loot to several boss fights</>\n<TextStyle.Red>- Removes general MoTD in favour of the WBUI2 mod’s UI</>\n<TextStyle.Red>- Forces ADS/F2 button icon</>\n<TextStyle.Red>- Updates JSON to include 5.16 details and reduces length of previous updates’ title & adds today’s update notes.</>\n<TextStyle.Red>- Updates JSON to include trial image for intro box (in future all boxes may be replaced with digitals)</>\n"
+            "title": "<TextStyle.Green>ADS Version 5.20 [26-May-2026]</>",
+            "text": "- Enhanced basic Aberration loot drops as they were a bit lacking\n- Shiny *Enraged* now drop 10x Shiny Essence and *Regular* shinies drop 2x when killed\n- Some lag reductive measures taken on Ab to improve latency for console users\n- Fixed a setting regarding taming (reverted to 1.7x taming speed multiplied by 5x dino hunger from intended 2x taming speed x5 hunger)\n- WBUI2 Mod UI updated with this update log and new meme"
           }
         ]
       }
