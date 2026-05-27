@@ -16,7 +16,7 @@
       {
         "layout": 1,
         "buttontext": "<TextStyle.White>START HERE ---></>",
-        "imageurl": "https://i.ibb.co/939h0VhT/ark-potc.png",
+        "imageurl": "https://i.ibb.co/tw4Pqq5F/ankylosore.png",
         "content": [
           {
             "title": "",
@@ -98,8 +98,8 @@
             "text": "Cluster Changelog:\n- Removed Added Burrowbuck manual coded spawns off maps that spawn them by default (added default spawn points to ADS spawn grid)\n- Adjusted min-max level scaling on all default burrowbuck spawns (varying across maps)\n- Removed Ant & Meganeura spawns from all Grassland biome spawn points across cluster (lag reductive benefit)\n- Tweaked some overspawns\n- Loot Quality rebalanced across cluster (some error in code led to drops being much better than intended quality wise)\n- Reduced spawn weight on Runic Wyverns across cluster\n- Reduced Kairuku max spawn % in Lost Colony Tundra Bowl spawn point\n- Boosted minimum-max level araneo spawns on Aberration\n- Replaced Engram and craft data for burrowbuck items with defaults then readjusted defaults to ADS standards (autounlock, custom craft etc)\n- Works on two new sentinel scripts & the TP2cc command being recoded to differ data to map buckets separately.  These scripts are currently inactive but when completed will be turned on in server and are slash-command based.\n- More digitals designed and uploaded in preparation for adorning admin builds coming very soon!"
           },
           {
-            "title": "<TextStyle.Green>ADS Version 5.20 [26-May-2026]</>",
-            "text": "- Enhanced basic Aberration loot drops as they were a bit lacking\n- Shiny *Enraged* now drop 10x Shiny Essence and *Regular* shinies drop 2x when killed\n- Some lag reductive measures taken on Ab to improve latency for console users\n- Fixed a setting regarding taming (reverted to 1.7x taming speed multiplied by 5x dino hunger from intended 2x taming speed x5 hunger)\n- WBUI2 Mod UI updated with this update log and new meme"
+            "title": "<TextStyle.Green>ADS Version 5.20 [26/27-May-2026]</>",
+            "text": "- Enhanced basic Aberration loot drops as they were a bit lacking\n- Shiny *Enraged* now drop 10x Shiny Essence and *Regular* shinies drop 2x when killed\n- Some lag reductive measures taken on Ab to improve latency for console users\n- Fixed a setting regarding taming (reverted to 1.7x taming speed multiplied by 5x dino hunger from intended 2x taming speed x5 hunger)\n- WBUI2 Mod UI updated with this update log and new meme\n\n\n<TextStyle.Green>FURTHER HOTFIXED ON 27TH MAY AS WRONG VERSION OF ESSENCE WAS IN DROP</>"
           }
         ]
       }
