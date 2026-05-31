@@ -26,23 +26,12 @@
       },
       {
         "layout": 1,
-        "buttontext": "<TextStyle.Yellow>Welcome</>",
+        "buttontext": "<TextStyle.Yellow>Welcome Info</>",
         "imageurl": "",
         "content": [
           {
             "title": "<TextStyle.Yellow>Welcome to Angel Devil Servers</>",
             "text": "<TextStyle.White>- DISCORD SIGN UP MANDATORY VIA discord.gg/4fX73NbYPs - for Rules, Help, BBS-Shop, Other games we host, Community and much more!</>  \n<TextStyle.White> - NO Building @ Player Spawn Points, on Explorer Notes, Obelisks, around Artifact Caves and on Herbi/Carnivore Island!</>\n<TextStyle.White> - /ads & /kit Global Chat Slash Commands may only be claimed once a week per server = using /ads, upto 9x free tames weekly if u transfer!</>\n<TextStyle.White> - /fever, /shrooms and /denethor commands for the inquisitive...</>\n<TextStyle.White> - /TP2CC Command teleports your to map Community Center teleporter area with 6 hour cooldown!</>\n<TextStyle.White> - Dino & Packs Market via Discord!</>\n<TextStyle.White> - Cross-Cluster Chat!  Special Scripts make this Community TRULY CUSTOM! 100x Shinies ON EVERY MAP!</>\n<TextStyle.White> - ALSO UNIQUE Starter Kit @ teleporter points across cluster (one free different tame on each map)!</>\n<TextStyle.White> - Register your PvE tribe on discord or YOU COULD GET TRIBE WIPED!!</>\n<TextStyle.White> - Structures Decay ENABLED - Log in once every few days to ensure no losses!</>\n<TextStyle.White> - Dino Decay after 7 days! Cryo up your tames when they are not in use!</>\n<TextStyle.White> - Playing on the servers means you have accepted the consequences of breaking our rules outlined in discord.</>\n\n<TextStyle.Red> == ADS Cluster Version V5.19 ==</>\n"
-          }
-        ]
-      },
-      {
-        "layout": 1,
-        "buttontext": "<TextStyle.Green>Online Players</>",
-        "imageurl": "https://i.ibb.co/C3FhV3T7/ads-200x200.png",
-        "content": [
-          {
-            "title": "<RichColor Color=\"0,1,0,1\">Connected Players</>",
-            "text": "{playerlist}"
           }
         ]
       },
@@ -81,13 +70,24 @@
         ]
       },
       {
+        "layout": 1,
+        "buttontext": "<TextStyle.Green>Online Players</>",
+        "imageurl": "https://i.ibb.co/C3FhV3T7/ads-200x200.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0,1,0,1\">Connected Players</>",
+            "text": "{playerlist}"
+          }
+        ]
+      },
+      {
         "layout": 4,
         "buttontext": "<TextStyle.Blue>Server Update Log</>",
         "imageurl": "https://i.ibb.co/C3FhV3T7/ads-200x200.png",
         "content": [
           {
-            "title": "<TextStyle.Red>ADS Version 5.17 [17th May 2026]</>",
-            "text": "<RichColor Color=\"0,1,0,1\">General Ini Changelog:</>\n<RichColor Color=\"1,0,0,1\">- Removed May's \"Blessings & Curses\" Event Settings</>\n- Reduced overspawn of Phoenix on ADS2: Scorched Earth\n- Added more Aberrant variety to ADS2: Scorched Earth\n- Increased Passive Repair Speeds on Bloodforged items from 0.1 to 0.25 (effect shud be noticeable)\n\n<RichColor Color=\"1,1,0,1\">Dino Depot & WBUI2 Mod JSON Changelogs:</>\n- Fixed Element Jug Bug Production (oddly it removed the element part of its blueprint when imported into the json tool)\n- Limited Wyvern, Runic and achatina passive production cycles (between 50-1000 limit per depot and depending on item generated)\n- Updated WBUI2 Update log and corrected a typo in first tab imagery"
+            "title": "<TextStyle.Green>ADS Version 5.21 [01st June 2026]</>",
+            "text": "- <TextStyle.Red>HEAVILY REDUCED ***BurrowBuck*** Spawns across cluster</> as a means to combat overspawn and burrowbuck AI latency (reports sourced from Reddit) - <TextStyle.Yellow>For the Nerds: 1% weight limit with 1% total node limit</>\n- Added a Sentinel Script to \"watch\" for certain behaviours and webhook to admin channel.\n- Updated Sentinel script for Kits to provide a cleaner queue action (less likely to fail unless during a sentinel outage)\n- Foundational code completed but not active for a **/joke, /meme & /tip** new slash commands coming to ADS soon:tm: \n- Design of script underway to create a profile of player activities that are <TextStyle.Yellow>player-accessible</> (for instance death count totals, favourite wild to kill based on counts, Progression/objective unlocks and dates, other history etc) \n- Updated WBUI2 Mod Json to include version 5.21 details in \"Updates\" Tab.\n<TextStyle.LightBlue>- Prepared Temporary Event code for June 2nd (Digital coming tomorrow)</>\n<TextStyle.LightBlue>- Designing June's D20 to be more Blessing-heavy to offset for last months very cursed rolls!</>"
           },
           {
             "title": "<TextStyle.Red>ADS Version 5.18 [21st May 2026]</>",
@@ -98,8 +98,8 @@
             "text": "Cluster Changelog:\n- Removed Added Burrowbuck manual coded spawns off maps that spawn them by default (added default spawn points to ADS spawn grid)\n- Adjusted min-max level scaling on all default burrowbuck spawns (varying across maps)\n- Removed Ant & Meganeura spawns from all Grassland biome spawn points across cluster (lag reductive benefit)\n- Tweaked some overspawns\n- Loot Quality rebalanced across cluster (some error in code led to drops being much better than intended quality wise)\n- Reduced spawn weight on Runic Wyverns across cluster\n- Reduced Kairuku max spawn % in Lost Colony Tundra Bowl spawn point\n- Boosted minimum-max level araneo spawns on Aberration\n- Replaced Engram and craft data for burrowbuck items with defaults then readjusted defaults to ADS standards (autounlock, custom craft etc)\n- Works on two new sentinel scripts & the TP2cc command being recoded to differ data to map buckets separately.  These scripts are currently inactive but when completed will be turned on in server and are slash-command based.\n- More digitals designed and uploaded in preparation for adorning admin builds coming very soon!"
           },
           {
-            "title": "<TextStyle.Green>ADS Version 5.20 [26/27-May-2026]</>",
-            "text": "- Enhanced basic Aberration loot drops as they were a bit lacking\n- Shiny *Enraged* now drop 10x Shiny Essence and *Regular* shinies drop 2x when killed\n- Some lag reductive measures taken on Ab to improve latency for console users\n- Fixed a setting regarding taming (reverted to 1.7x taming speed multiplied by 5x dino hunger from intended 2x taming speed x5 hunger)\n- WBUI2 Mod UI updated with this update log and new meme\n\n\n<TextStyle.Green>FURTHER HOTFIXED ON 27TH MAY AS WRONG VERSION OF ESSENCE WAS IN DROP</>"
+            "title": "<TextStyle.Red>ADS Version 5.20 [26/27-May-2026]</>",
+            "text": "- Enhanced basic Aberration loot drops as they were a bit lacking\n- Shiny *Enraged* now drop 10x Shiny Essence and *Regular* shinies drop 2x when killed\n- Some lag reductive measures taken on Ab to improve latency for console users\n- Fixed a setting regarding taming (reverted to 1.7x taming speed multiplied by 5x dino hunger from intended 2x taming speed x5 hunger)\n- WBUI2 Mod UI updated with this update log and new meme\n\n\n<TextStyle.Yellow>FURTHER HOTFIXED ON 27TH MAY AS WRONG VERSION OF ESSENCE WAS IN DROP</>"
           }
         ]
       }
