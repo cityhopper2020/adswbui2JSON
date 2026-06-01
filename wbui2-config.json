@@ -16,7 +16,7 @@
       {
         "layout": 1,
         "buttontext": "<TextStyle.White>START HERE ---></>",
-        "imageurl": "https://i.ibb.co/rKJ4pMdp/d5-json1.png",
+        "imageurl": "https://i.ibb.co/fdzWx96M/event-june.pn",
         "content": [
           {
             "title": "",
@@ -65,7 +65,7 @@
         "content": [
           {
             "title": "<TextStyle.Green>ADS Version 5.21 [01st June 2026]</>",
-            "text": "- <TextStyle.Red>HEAVILY REDUCED ***BurrowBuck*** Spawns across cluster</> as a means to combat overspawn and burrowbuck AI latency (reports sourced from Reddit) - <TextStyle.Yellow>For the Nerds: 1% weight limit with 1% total node limit</>\n- Added a Sentinel Script to \"watch\" for certain behaviours and webhook to admin channel.\n- Updated Sentinel script for Kits to provide a cleaner queue action (less likely to fail unless during a sentinel outage)\n- Foundational code completed but not active for a **/joke, /meme & /tip** new slash commands coming to ADS soon:tm: \n- Design of script underway to create a profile of player activities that are <TextStyle.Yellow>player-accessible</> (for instance death count totals, favourite wild to kill based on counts, Progression/objective unlocks and dates, other history etc) \n- Updated WBUI2 Mod Json to include version 5.21 details in \"Updates\" Tab.\n<TextStyle.LightBlue>- Prepared Temporary Event code for June 2nd (Digital coming tomorrow)</>\n<TextStyle.LightBlue>- Designing June's D20 to be more Blessing-heavy to offset for last months very cursed rolls!</>"
+            "text": "- <TextStyle.Red>HEAVILY REDUCED ***BurrowBuck*** Spawns across cluster</> as a means to combat overspawn and burrowbuck AI latency (reports sourced from Reddit) - <TextStyle.Yellow>For the Nerds: 1% weight limit with 1% total node limit</>\n- Added a Sentinel Script to \"watch\" for certain behaviours and webhook to admin channel.\n- Updated Sentinel script for Kits to provide a cleaner queue action (less likely to fail unless during a sentinel outage)\n- Foundational code completed but not active for a **/joke, /meme & /tip** new slash commands coming to ADS soon:tm: \n- Design of script underway to create a profile of player activities that are <TextStyle.Yellow>player-accessible</> (for instance death count totals, favourite wild to kill based on counts, Progression/objective unlocks and dates, other history etc) \n- Updated WBUI2 Mod Json to include version 5.21 details in \"Updates\" Tab.\n<TextStyle.LightBlue>- Prepared Temporary Event code for June 2nd (Digital coming tomorrow)</>\n<TextStyle.LightBlue>- Designing June's D20 to be more Blessing-heavy to offset for last months very cursed rolls!</>\n\n<TextStyle.Violet>EVENT SETTINGS ADDED ON 2ND JUNE -- SEE FIRST TAB FOR DETAILS</>"
           },
           {
             "title": "<TextStyle.Red>ADS Version 5.18 [21st May 2026]</>",
