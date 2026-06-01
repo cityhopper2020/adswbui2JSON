@@ -16,7 +16,7 @@
       {
         "layout": 1,
         "buttontext": "<TextStyle.White>START HERE ---></>",
-        "imageurl": "https://i.ibb.co/0yF9J0Fz/ase-over-asa-new.png",
+        "imageurl": "https://i.ibb.co/rKJ4pMdp/d5-json1.png",
         "content": [
           {
             "title": "",
@@ -25,30 +25,8 @@
         ]
       },
       {
-        "layout": 1,
-        "buttontext": "<TextStyle.Yellow>Welcome Info</>",
-        "imageurl": "",
-        "content": [
-          {
-            "title": "<TextStyle.Yellow>Welcome to Angel Devil Servers</>",
-            "text": "<TextStyle.White>- DISCORD SIGN UP MANDATORY VIA discord.gg/4fX73NbYPs - for Rules, Help, BBS-Shop, Other games we host, Community and much more!</>  \n<TextStyle.White> - NO Building @ Player Spawn Points, on Explorer Notes, Obelisks, around Artifact Caves and on Herbi/Carnivore Island!</>\n<TextStyle.White> - /ads & /kit Global Chat Slash Commands may only be claimed once a week per server = using /ads, upto 9x free tames weekly if u transfer!</>\n<TextStyle.White> - /fever, /shrooms and /denethor commands for the inquisitive...</>\n<TextStyle.White> - /TP2CC Command teleports your to map Community Center teleporter area with 6 hour cooldown!</>\n<TextStyle.White> - Dino & Packs Market via Discord!</>\n<TextStyle.White> - Cross-Cluster Chat!  Special Scripts make this Community TRULY CUSTOM! 100x Shinies ON EVERY MAP!</>\n<TextStyle.White> - ALSO UNIQUE Starter Kit @ teleporter points across cluster (one free different tame on each map)!</>\n<TextStyle.White> - Register your PvE tribe on discord or YOU COULD GET TRIBE WIPED!!</>\n<TextStyle.White> - Structures Decay ENABLED - Log in once every few days to ensure no losses!</>\n<TextStyle.White> - Dino Decay after 7 days! Cryo up your tames when they are not in use!</>\n<TextStyle.White> - Playing on the servers means you have accepted the consequences of breaking our rules outlined in discord.</>\n\n<TextStyle.Red> == ADS Cluster Version V5.19 ==</>\n"
-          }
-        ]
-      },
-      {
-        "layout": 1,
-        "buttontext": "<TextStyle.Violet>ADS RULES</>",
-        "imageurl": "",
-        "content": [
-          {
-            "title": "<TextStyle.Violet>BASIC RULES</>",
-            "text": "<TextStyle.Yellow>[FULL Rules via Discord Rules Channel]</> \n- No offensive, racist, discriminatory or otherwise inflammatory tribe, character, or creature names, or chats.\n- No griefing or stealing of any kind - including, but not limited to: insiding, egg/breeding line theft, drowning players, wild dino-kiting, structure blocking, taming/OSD/fight interference, etc.\n- Always ensure to log off in a safe, enclosed area & that any valuable items or creatures are adequately stored as well.\n- Admin requests for help must be reasonable (such as losing access to tribe, character corruption, etc) & done via discord ticket. Do not DM admins & read FAQs before creating ticket when possible. \n- Base rules: 1x Base per map, min. 90x foundations apart from other bases & max diameter of 45x foundations. Alternatively, 2x2 ocean plats, or 3x cliff/tree platforms in close proximity & in actual use.\n- Keep rare resources publicly accessible/unlocked (explorer notes, black pearls, sap/oil/water/gas veins, etc).\n- Clean logout FOBs, traps, OSD setups, etc. after use.\n- No builds at or close to artifact caves, boss terminals, or unique dino/egg/resource spawn zones.\n- Please build aesthetic bases! Box Bases are ugly!\n- Max of 30x tames allowed out at any given time on each map per tribe & No AFK Breeding."
-          }
-        ]
-      },
-      {
         "layout": 4,
-        "buttontext": "<TextStyle.Red>ADS Cluster Info</>",
+        "buttontext": "<TextStyle.Orange>ADS Cluster Info</>",
         "imageurl": "",
         "content": [
           {
@@ -71,18 +49,18 @@
       },
       {
         "layout": 1,
-        "buttontext": "<TextStyle.Green>Online Players</>",
-        "imageurl": "https://i.ibb.co/C3FhV3T7/ads-200x200.png",
+        "buttontext": "<TextStyle.Violet>ADS RULES</>",
+        "imageurl": "",
         "content": [
           {
-            "title": "<RichColor Color=\"0,1,0,1\">Connected Players</>",
-            "text": "{playerlist}"
+            "title": "<TextStyle.Violet>BASIC RULES</>",
+            "text": "<TextStyle.Yellow>[FULL Rules via Discord Rules Channel]</> \n- No offensive, racist, discriminatory or otherwise inflammatory tribe, character, or creature names, or chats.\n- No griefing or stealing of any kind - including, but not limited to: insiding, egg/breeding line theft, drowning players, wild dino-kiting, structure blocking, taming/OSD/fight interference, etc.\n- Always ensure to log off in a safe, enclosed area & that any valuable items or creatures are adequately stored as well.\n- Admin requests for help must be reasonable (such as losing access to tribe, character corruption, etc) & done via discord ticket. Do not DM admins & read FAQs before creating ticket when possible. \n- Base rules: 1x Base per map, min. 90x foundations apart from other bases & max diameter of 45x foundations. Alternatively, 2x2 ocean plats, or 3x cliff/tree platforms in close proximity & in actual use.\n- Keep rare resources publicly accessible/unlocked (explorer notes, black pearls, sap/oil/water/gas veins, etc).\n- Clean logout FOBs, traps, OSD setups, etc. after use.\n- No builds at or close to artifact caves, boss terminals, or unique dino/egg/resource spawn zones.\n- Please build aesthetic bases! Box Bases are ugly!\n- Max of 30x tames allowed out at any given time on each map per tribe & No AFK Breeding."
           }
         ]
       },
       {
         "layout": 4,
-        "buttontext": "<TextStyle.Blue>Server Update Log</>",
+        "buttontext": "<TextStyle.Yellow>Server Update Log</>",
         "imageurl": "https://i.ibb.co/C3FhV3T7/ads-200x200.png",
         "content": [
           {
@@ -102,16 +80,50 @@
             "text": "- Enhanced basic Aberration loot drops as they were a bit lacking\n- Shiny *Enraged* now drop 10x Shiny Essence and *Regular* shinies drop 2x when killed\n- Some lag reductive measures taken on Ab to improve latency for console users\n- Fixed a setting regarding taming (reverted to 1.7x taming speed multiplied by 5x dino hunger from intended 2x taming speed x5 hunger)\n- WBUI2 Mod UI updated with this update log and new meme\n\n\n<TextStyle.Yellow>FURTHER HOTFIXED ON 27TH MAY AS WRONG VERSION OF ESSENCE WAS IN DROP</>"
           }
         ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Green>Online Players</>",
+        "imageurl": "https://i.ibb.co/C3FhV3T7/ads-200x200.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0,1,0,1\">Connected Players</>",
+            "text": "{playerlist}"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "<TextStyle.Red>Ark Chad</>",
+        "imageurl": "https://i.ibb.co/7JZtk12T/WANNA-CHAD.png",
+        "content": [
+          {
+            "title": "",
+            "text": ""
+          }
+        ]
       }
     ],
     "links": [
       {
-        "text": "Link to Discord",
+        "text": "ADS Discord",
         "url": "https://discord.gg/3CFxyZbnJ4"
       },
       {
-        "text": "Link to ADS Info Doc",
+        "text": "ADS-Info Link",
         "url": "https://docs.google.com/spreadsheets/d/1JvZZWkU3oDnfLB4KKY-3xiyMhdZQ8XDqigJS25n10dI/edit?usp=sharing"
+      },
+      {
+        "text": "YouTube Link",
+        "url": "https://www.youtube.com/channel/UCmZb3SkiRjcdP8leJ4zlQHw"
+      },
+      {
+        "text": "ADS Kofi Link",
+        "url": "https://ko-fi.com/ads2022#linkModal"
+      },
+      {
+        "text": "Noobtopia Discord (RimW & P.Z.)",
+        "url": "https://discord.gg/cMDerbGwYH"
       }
     ],
     "version": 2
