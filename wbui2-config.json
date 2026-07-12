@@ -16,7 +16,7 @@
       {
         "layout": 1,
         "buttontext": "<TextStyle.White>START HERE ---></>",
-        "imageurl": "https://i.ibb.co/7tL47mq3/memeredbelle.png",
+        "imageurl": "https://i.ibb.co/JR6jKJmF/look-forward-to-it.jpg",
         "content": [
           {
             "title": "",
@@ -72,12 +72,12 @@
             "text": "- Hotfixed some reverted shiny mod ini (some servers somehow didnt have the correct event or right number of max shinies)\n- ADDED Custom Aberrant Angler Spawn to The Center's (ADS3) Ocean spawn point at 1% limit but to spawn in shaols of 3-4 (please let us know if the numbers of them need further tweaking)\n- ADDED Griffins to Scorched Earth's Open Desert Spawn point alongside the alpha parties but with an increased spacing scale (estimated 6-9 foundations)\n- Updated WBUI2Mod with B&C Front page and Update log tab\n\nRemoved event settings...\n- 8x Carno etc damage\n- Fishing loot returned to ADS defaults\n- Shiny loot returned to ADS defaults\n- Enraged levels returned to ADS defaults\n\nBlessings and Curses July Settings\n- Can be found in front page digital (\"Start Here\" Tab)"
           },
           {
-            "title": "<TextStyle.Green>ADS Version 5.40 [09TH JULY 2026]</>",
+            "title": "<TextStyle.Red>ADS Version 5.40 [09TH JULY 2026]</>",
             "text": "Cluster Changelog:\n- Fixed Autounlocks on some Engrams.\n- Removed all Blessings & Curses Settings.\n- ADDED RELEASED TODAY Moro's Supercephalosornis mod to main cluster, engram array, crafting costs config and adjustments inis\n\nADS-10-Genesis Changelog:\n- Configured ALL 29 Missions & over Custom-Tiered Systems including Easy-Medium-Hard inherent tiers!\n-- ARMOR & WEAPON Loot entries range from Cloth thru Tek or from Slingshot thru Tek Claws/sword/launcher/rifles\n(ALL weapons and every type of armor within the range) with item entries being low in quality and blueprint entries rng ranging from low to ascendant\n- Reverted Cheapened costs of Hex store in efforts to restablish loot crates (semingly it breaks purchase if cheapened) \n- Fixed Item Upload reverted setting! (Item Uploads now enabled)\n- ULTRA-BOOSTED Breeding & Taming Speeds! (beyond current Cluster norms)\n- REDUCED Crafting costs of many items & structures!\n- ADDED Traditional ADS Custom Beer & Waterless recipes!\n- ADDED Genesis Custom Loot Pools & Spawn table adjustments outside of Mission-based loot!\n- ADDED Traditional ADS Castoroides Spawns on Beaches (meaning more beaver den opportunities) & lightened/adjusted beaver dam contents!"
           },
           {
-            "title": "<TextStyle.Red>ADS Version 5.34 [20-June-2026]</>",
-            "text": "<TextStyle.Orange>- Updated Meme</>\n<TextStyle.Orange>- Added SCS (PP and unique config pending from test server)</>\n<TextStyle.Orange>- Added basic ini for SCS (autoengrams, crafting costs, /scs command)</>\n\n<TextStyle.Red>==IMPORTANT NOTICE FOR THIS WEEK:==</>\n<TextStyle.Yellow>DO NOT USE AND CRAFT DINO DEPOT ITEMS OR STRUCTURES AS THIS MOD WILL BE REMOVED IN A FEW DAYS TIME!! ONLY USE SUPER CRYO STORAGE!!</>\n\n"
+            "title": "<TextStyle.Green>ADS Version 5.42 [12-July-2026]</>",
+            "text": "Changelog:\n- Updated front page meme\n- Hotfixed Genesis Mission loot configuration (rebalanced)\n- Adjusted fishing loot table slightly and treasure map pool to include bee hive chance."
           }
         ]
       },
