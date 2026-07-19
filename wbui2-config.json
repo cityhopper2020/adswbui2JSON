@@ -16,7 +16,7 @@
       {
         "layout": 1,
         "buttontext": "<TextStyle.White>START HERE ---></>",
-        "imageurl": "https://i.ibb.co/yBf48HNg/Gen-missions-solo.png",
+        "imageurl": "https://i.ibb.co/nNLfgCPx/ark-meme-rip.jpg",
         "content": [
           {
             "title": "",
@@ -64,8 +64,8 @@
         "imageurl": "https://i.ibb.co/C3FhV3T7/ads-200x200.png",
         "content": [
           {
-            "title": "<TextStyle.Red>ADS Version 5.35 [22nd June 2026]</>",
-            "text": "- Updated Front Page of WBUI2mod\n- Updated SCS Mod across maps (reported to have taken ab settings so chelle will rectify this shortly in game in admin)\n- Updated Dino Depot structures and item crafting costs to cost themselves as a preventative measure for new joiners"
+            "title": "<TextStyle.Green>ADS Version 5.44 [19-July-2026]</>",
+            "text": "- Player Sloops & Brigs should now have 10% more resistance!\n- Genesis Bounty Board Multiplier increased with loot qual update!\n- Genesis Alpha Loot crate loot boosted!\n- Genesis Beta Loot Crate involves Fur & Ghillie Taming sets!\n- Gamma Loot crate kept at vanilla default (but benefits from 1.5x loot multiplier)\n- Pirate Outpost Missions Customed over their shitty vanilla defaults (+ Munitions BP's Custom-added!)\n- Added Summer Bash Mod in first mod position to Genesis & The Center\n- Removed The Center Spawn reduction clamp on kairuku (as WC apparently finally patched them recently)\n- Added Gacha Passive Production back to Genesis 1.\n- Added Hydrovanta Mod to Genesis 1\n- Added Nothosaurus Mod to Genesis 1\n- Added Livyathan Mod to Genesis 1\n- Added Tylosaurus Mod to Genesis 1\n- Added Additional Munitions Mod to Genesis 1\n^ All added mod engrams set to autounlock on Genesis 1\n^ All added to sentinel /ads script command\n- Hotfixed Genesis kairuku overspawns in a second restart"
           },
           {
             "title": "<TextStyle.Red>ADS Version 5.37 [30th June 2026]</>",
@@ -76,7 +76,7 @@
             "text": "Cluster Changelog:\n- Fixed Autounlocks on some Engrams.\n- Removed all Blessings & Curses Settings.\n- ADDED RELEASED TODAY Moro's Supercephalosornis mod to main cluster, engram array, crafting costs config and adjustments inis\n\nADS-10-Genesis Changelog:\n- Configured ALL 29 Missions & over Custom-Tiered Systems including Easy-Medium-Hard inherent tiers!\n-- ARMOR & WEAPON Loot entries range from Cloth thru Tek or from Slingshot thru Tek Claws/sword/launcher/rifles\n(ALL weapons and every type of armor within the range) with item entries being low in quality and blueprint entries rng ranging from low to ascendant\n- Reverted Cheapened costs of Hex store in efforts to restablish loot crates (semingly it breaks purchase if cheapened) \n- Fixed Item Upload reverted setting! (Item Uploads now enabled)\n- ULTRA-BOOSTED Breeding & Taming Speeds! (beyond current Cluster norms)\n- REDUCED Crafting costs of many items & structures!\n- ADDED Traditional ADS Custom Beer & Waterless recipes!\n- ADDED Genesis Custom Loot Pools & Spawn table adjustments outside of Mission-based loot!\n- ADDED Traditional ADS Castoroides Spawns on Beaches (meaning more beaver den opportunities) & lightened/adjusted beaver dam contents!"
           },
           {
-            "title": "<TextStyle.Green>ADS Version 5.42 [12-July-2026]</>",
+            "title": "<TextStyle.Red>ADS Version 5.42 [12-July-2026]</>",
             "text": "Changelog:\n- Updated front page meme\n- Hotfixed Genesis Mission loot configuration (rebalanced)\n- Adjusted fishing loot table slightly and treasure map pool to include bee hive chance."
           }
         ]
