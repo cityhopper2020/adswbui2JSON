@@ -16,7 +16,7 @@
       {
         "layout": 1,
         "buttontext": "<TextStyle.White>START HERE ---></>",
-        "imageurl": "https://i.ibb.co/SXkQw0sv/Not-Today-Satan.png",
+        "imageurl": "https://i.ibb.co/jvdbwmYT/four-cartoon-t-rexes-in-different-in-blue-background.webp",
         "content": [
           {
             "title": "",
@@ -66,29 +66,6 @@
           {
             "title": "<RichColor Color=\"0,1,0,1\">Connected Players</>",
             "text": "{playerlist}"
-          }
-        ]
-      },
-      {
-        "layout": 4,
-        "buttontext": "<TextStyle.Yellow>Server Update Log</>",
-        "imageurl": "https://i.ibb.co/C3FhV3T7/ads-200x200.png",
-        "content": [
-          {
-            "title": "<TextStyle.Red>ADS Version 5.44 [19-July-2026]</>",
-            "text": "- Player Sloops & Brigs should now have 10% more resistance!\n- Genesis Bounty Board Multiplier increased with loot qual update!\n- Genesis Alpha Loot crate loot boosted!\n- Genesis Beta Loot Crate involves Fur & Ghillie Taming sets!\n- Gamma Loot crate kept at vanilla default (but benefits from 1.5x loot multiplier)\n- Pirate Outpost Missions Customed over their shitty vanilla defaults (+ Munitions BP's Custom-added!)\n- Added Summer Bash Mod in first mod position to Genesis & The Center\n- Removed The Center Spawn reduction clamp on kairuku (as WC apparently finally patched them recently)\n- Added Gacha Passive Production back to Genesis 1.\n- Added Hydrovanta Mod to Genesis 1\n- Added Nothosaurus Mod to Genesis 1\n- Added Livyathan Mod to Genesis 1\n- Added Tylosaurus Mod to Genesis 1\n- Added Additional Munitions Mod to Genesis 1\n^ All added mod engrams set to autounlock on Genesis 1\n^ All added to sentinel /ads script command\n- Hotfixed Genesis kairuku overspawns in a second restart"
-          },
-          {
-            "title": "<TextStyle.Red>ADS Version 5.50 [29th June 2026]</>",
-            "text": "Changelogs:\n- ALL Cluster Mods added to Genesis Part One! - *Server will take a while to come back online as it will be downloading mods & processing new .ini...*\n- Certain Spawns blocked on Genesis Part One! - *Such as runic spawns etc. as these are only on server so its ready for transfer unlocks in future.*\n- Dino Colouring Token Mod ADDED to ALL Cluster to streamline/automate dino coloring requests on cluster! - *Set to be an uncraftable item currently in order to control such through admin market & will mean cluster will take a little longer to come back online due to addition..*\n- Engram Array Normalised across cluster (*detached from individual maps and placed in Base config*)\n- Crafting costs Normalised across cluster (*see above*)\n- For the *readers* - shiny event settings enacted early! See events channel for specific details...\n- Temporary Event settings are 90% configured & just waiting on D-day (31st)!\n- M(eme).o.t.D. updated.\n- Update Log in WBUI2 mod UI updated with this post."
-          },
-          {
-            "title": "<TextStyle.Green>ADS Version 5.51 [07TH August 2026]</>",
-            "text": "- Updated Taming speeds on cluster as some were not reflecting event taming speed boosts (event settings will be extended for this time loss)\n- Added a Force Weight clamp on Prehistoric Beast mod packs' Tek variants as they seem to be creating overspawns (lirainosaurus, ouranosaurus, inostrancevia, cryodrakon, koolasuchus & gandakasia) -- Hopefully this reduces some of the mod's overspawns.  It has been reported to the mod author and we are awaiting a full fix in the coming week from them."
-          },
-          {
-            "title": "<TextStyle.Red>ADS Version 5.42 [12-July-2026]</>",
-            "text": "Changelog:\n- Updated front page meme\n- Hotfixed Genesis Mission loot configuration (rebalanced)\n- Adjusted fishing loot table slightly and treasure map pool to include bee hive chance."
           }
         ]
       },
