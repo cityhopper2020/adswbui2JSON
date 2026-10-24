@@ -15,8 +15,8 @@
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "<TextStyle.White>START HERE ---></>",
-        "imageurl": "https://i.ibb.co/nNLfgCPx/ark-meme-rip.jpg",
+        "buttontext": "<TextStyle.White>START HERE---></>",
+        "imageurl": "https://i.ibb.co/4n3gkB6p/october-Roadmapping.png",
         "content": [
           {
             "title": "",
@@ -26,30 +26,30 @@
       },
       {
         "layout": 4,
-        "buttontext": "<TextStyle.Orange>ADS Cluster Info</>",
+        "buttontext": "<TextStyle.Orange>#ADS ALL Clusters Info</>",
         "imageurl": "",
         "content": [
           {
-            "title": "<TextStyle.Yellow>ADS Basic Summary</>",
-            "text": "<TextStyle.LightBlue>ADS currently hosts ALL 9 official & DLC maps via nitrado & powered by Beacon Sentinel & Helena Bot!</>\n\n<TextStyle.Orange>- General Harvest Rates: 5x</>\n<TextStyle.Orange>- Combined Taming Speed: 10x [Taming Speed 2x X 5x Wild Dino Hunger]</>\n<TextStyle.Orange>- Custom Slash Commands & Unique scripts running in the background!</>\n<TextStyle.Orange>- Admin Market & Events ran thru Community Discord!</>\n<TextStyle.Orange>- Most Saddles & kit cheapened in crafting cost!</>\n<TextStyle.Orange>- Buffed Ascension Bosses but no cap on Dino Levels!</>\n<TextStyle.Orange>- Unique Event Mod active on each map separately!</>\n<TextStyle.Orange>- Unique Perks & D20 games for Server Donators!</>\n<TextStyle.Orange>- Starter Kits can be found at the ADS Public Teleporters at Obelisks!  Unique & exclusive admin market stalls can be found at Admin Community Centers on each map!</>\n<TextStyle.Orange>- Cross-Cluster Chat & to Discord General Chat channel & back! (Helps with XBOX/Microsoft Gamestore users who have inherent issues with ingame chat censorship)</>\n\n<TextStyle.LightBlue>Last updated May 2026</>"
+            "title": "<TextStyle.Green>ADS Boosted Summary</>",
+            "text": "<TextStyle.LightBlue>ADS hosts TWO SEPARATE CLUSTERS!</>\n<TextStyle.Yellow>#ADS-Boosted & #ADS-Gauntlet (One Boosted - One Challenge/near vanilla)</>\n\n<TextStyle.White>#ADS BOOSTED Set up:</>\n<TextStyle.White>Hosts ALL Official & DLC maps (and aims to host ALL future maps) via Nitrado & powered by Beacon Sentinel, Helena Bot & an International Friendly Admin Team!</>\n\n<TextStyle.Orange>- General Harvest Rates: 5x</>\n<TextStyle.Orange>- Combined Taming Speed: 10x [Taming Speed 2x X 5x Wild Dino Hunger]</>\n<TextStyle.Orange>- Custom Slash Commands & Unique scripts running in the background!</>\n<TextStyle.Orange>- Admin Market & Events ran thru Community Discord!</>\n<TextStyle.Orange>- Most Saddles & kit cheapened in crafting cost!</>\n<TextStyle.Orange>- Buffed Ascension Bosses but no cap on Dino Levels!</>\n<TextStyle.Orange>- Unique Event Mod active on each map separately!</>\n<TextStyle.Orange>- Unique Perks & D20 games for Server Donators!</>\n<TextStyle.Orange>- Starter Kits can be found at the ADS Public Teleporters at Obelisks!  Unique & exclusive admin market stalls can be found at Admin Community Centers on each map!</>\n<TextStyle.Orange>- Cross-Cluster Chat & to Discord General Chat channel & back! (Helps with XBOX/Microsoft Gamestore users who have inherent issues with ingame chat censorship)</>\n\n<TextStyle.LightBlue>Last updated October 2026</>"
           },
           {
-            "title": "<TextStyle.Green>ADS Custom Slash Commands!</>",
-            "text": "<TextStyle.LightBlue>Through the Amazing Power of Beacon Sentinel comes Angel Devil Servers' Custom Slash Commands!  Send any of the following (without the \" \") into global chat to receive your Angel Blessing or Devil Curse!</>\n\n<TextStyle.Violet>\"/kit\" - Grants you a basic kit once per week across cluster!</>\n<TextStyle.Violet>\"/ads\" - Blesses or Curses you with a random tame at a random level (could be great, could be meh!) in a vanilla cryopod in your pocket!  Can be claimed once PER MAP, PER WEEK! - meaning 9x free tames weekly if you transfer!</>\n<TextStyle.Violet>\"/tp2cc\" - Grants you an Angel's Blessing and teleports you to the local CC on any map! - Requires 3 hours to cooldown</>\n<TextStyle.Violet>\"/fever\" - The Devil Curses you with Swamp Fever! (Useful for those wishing to unlock the Ark steam/Console achievement for curing the fever and have an antidote ready)</>\n<TextStyle.Violet>\"/denethor\" - A Lord of the Rings Reference... Find out for yourself!</>\n\n<TextStyle.LightBlue>Last updated May 2026</>"
+            "title": "<TextStyle.Yellow>#ADS Gauntlet Cluster Details...</>",
+            "text": "<TextStyle.LightBlue>ADS hosts TWO SEPARATE CLUSTERS!</>\n<TextStyle.Yellow>#ADS-Boosted & #ADS-Gauntlet (One Boosted - One Challenge/near vanilla)</>\n\n<TextStyle.White>#ADS GAUNTLET Set up:</>\n<TextStyle.White>Aimed to host ALL Ascension & DLC maps but currently hosts The Devil's Island (#ADS-Gauntlet-01) & Bjarnheim (#ADS-Gauntlet-02) via Nitrado & powered by Beacon Sentinel, Helena Bot & an International Friendly Admin Team!</>\n\n<TextStyle.Orange>- General Harvest Rates: 2x [Some Rates lower/higher dependent on map]</>\n<TextStyle.Orange>- Combined Taming Speed: 8x [Taming Speed 2x X 4x Wild Dino Hunger] - may change during events!</>\n<TextStyle.Orange>- Custom Slash Commands & Unique scripts running in the background!</>\n<TextStyle.Orange>- Admin Market & Events ran thru Community Discord!</>\n<TextStyle.Orange>- NO DINO/ITEM TRANSFERS - PLAYER ONLY TRANSFER CLUSTER!</>\n<TextStyle.Orange>- CUSTOM SETTINGS & MODLIST PER MAP!</>\n<TextStyle.Orange>- DEVIL'S PLAGUE RUNS RAMPANT ON GAUNTLET!!</>\n<TextStyle.Red>- BOSSES, CAVE DINOS AND OTHER DINOS MILDLY BUFFED!</>\n<TextStyle.Orange>- Unique Perks & D20 games for Server Donators!</>\n<TextStyle.Orange>- Cross-Cluster Chat & to Discord General Chat channel & back! (Helps with XBOX/Microsoft Gamestore users who have inherent issues with ingame chat censorship)</>\n\n<TextStyle.LightBlue>Last updated October 2026</>"
           },
           {
-            "title": "<TextStyle.Violet>Custom! Custom! Custom!</>",
-            "text": "<TextStyle.Red>Make Angel Devil Servers YOUR Community Home!</>\n\nStrive to Overcome the Devil's Gauntlet (Buffed Ascension Bosses) bringing in a mutated horde of Boss fighters!  Although ADS Cluster is quite boosted, players will die REGULARLY as, it being Player vs Environment, we have made said environment highly deadly to survivors via custom settings, buffs and nerfs!\n\nBut don't fret, survivor...\n\nThere are many custom settings & modded creatures specially chosen to aid you on your adventures and ascension beyond...  \n\nDare you meet the challenge?"
+            "title": "<TextStyle.Yellow>#ADS-DPC-RP Details...</>",
+            "text": "<TextStyle.Red>The Devil's Primitive Civilizations Role Play & CONTENT Cluster</>\n<TextStyle.LightBlue>= Coming soon! =</>  \n<TextStyle.Yellow>¬_¬</>"
           },
           {
-            "title": "<TextStyle.Orange>SETTINGS IN DEPTH</>",
-            "text": "<TextStyle.White>IN-DEPTH Settings may be found in the following link:</>\n<TextStyle.Orange>https://docs.google.com/spreadsheets/d/1JvZZWkU3oDnfLB4KKY-3xiyMhdZQ8XDqigJS25n10dI/edit?gid=1292045507#gid=1292045507</> \nor by clicking the links icon to the bottom left!\n"
+            "title": "<TextStyle.Green>ADS Custom Slash Commands & info!</>",
+            "text": "<TextStyle.LightBlue>Through the Amazing Power of Beacon Sentinel comes Angel Devil Servers' Custom Slash Commands!  Send any of the following (without the \" \") into global chat to receive your Angel Blessing or Devil Curse!</>\n\n<TextStyle.Violet>\"/kit\" - Grants you a basic kit once per week across cluster!</>\n<TextStyle.Violet>\"/ads\" - Blesses or Curses you with a random tame at a random level (could be great, could be meh!) in a vanilla cryopod in your pocket!  Can be claimed once PER MAP, PER WEEK! - meaning 9x free tames weekly if you transfer!</>\n<TextStyle.Violet>\"/tp2cc\" - Grants you an Angel's Blessing and teleports you to the local CC on any map! - Requires 3 hours to cooldown</>\n<TextStyle.Violet>\"/fever\" - The Devil Curses you with Swamp Fever! (Useful for those wishing to unlock the Ark steam/Console achievement for curing the fever and have an antidote ready)</>\n<TextStyle.Violet>\"/denethor\" - A Lord of the Rings Reference... Find out for yourself!</>\n\n<TextStyle.White>IN-DEPTH Settings may be found in the following link:</>\n<TextStyle.Orange>https://docs.google.com/spreadsheets/d/1JvZZWkU3oDnfLB4KKY-3xiyMhdZQ8XDqigJS25n10dI/edit?gid=1292045507#gid=1292045507</> \nor by clicking the links icon to the bottom left!\n\n<TextStyle.Red>Make Angel Devil Servers YOUR Community Home!</>\nStrive to Overcome the Devil's Gauntlet (Buffed Ascension Bosses) bringing in a mutated horde of Boss fighters!  Although ADS Cluster is quite boosted, players will die REGULARLY as, it being Player vs Environment, we have made said environment highly deadly to survivors via custom settings, buffs and nerfs!\n\nBut don't fret, survivor...\n\nThere are many custom settings & modded creatures specially chosen to aid you on your adventures and ascension beyond...  \n\nDare you meet the challenge??\n\n<TextStyle.LightBlue>Last updated May 2026</>"
           }
         ]
       },
       {
         "layout": 1,
-        "buttontext": "<TextStyle.Violet>ADS RULES</>",
+        "buttontext": "<TextStyle.Violet>ADS BASIC RULES</>",
         "imageurl": "",
         "content": [
           {
@@ -71,7 +71,7 @@
       },
       {
         "layout": 1,
-        "buttontext": "<TextStyle.Red>Ark Chad</>",
+        "buttontext": "<TextStyle.Red>Be an Ark Chad</>",
         "imageurl": "https://i.ibb.co/ZzCk2Kzx/WANNA-CHAD.png",
         "content": [
           {
