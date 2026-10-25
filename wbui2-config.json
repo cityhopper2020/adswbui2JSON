@@ -60,12 +60,23 @@
       },
       {
         "layout": 1,
-        "buttontext": "<TextStyle.Green>Online Players</>",
+        "buttontext": "<TextStyle.Green>Online</>",
         "imageurl": "https://i.ibb.co/C3FhV3T7/ads-200x200.png",
         "content": [
           {
             "title": "<RichColor Color=\"0,1,0,1\">Connected Players</>",
             "text": "{playerlist}"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "MOST RECENT MAJOR UPDATE",
+        "imageurl": "https://i.ibb.co/0WwMfGN/0-update-notes-v6v2.png",
+        "content": [
+          {
+            "title": "",
+            "text": ""
           }
         ]
       },
